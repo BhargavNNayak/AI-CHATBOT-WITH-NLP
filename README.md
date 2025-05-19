@@ -40,3 +40,4 @@ Developers aiming to learn or practice chatbot development can use this as a bas
 
 # OUTPUT 
 
+![Image](https://github.com/user-attachments/assets/452098f1-e672-4d4a-a9ca-c8eaf9ad51b3)
